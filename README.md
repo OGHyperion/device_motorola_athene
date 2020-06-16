@@ -20,4 +20,4 @@ Camera  | 12/16 MP, autofocus, LED flash
 Copyright 2016 - The CyanogenMod Project.
 Copyright 2017 - The LineageOS Project.
 
-![Moto G4 Plus](http://images.fonearena.com/blog/wp-content/uploads/2016/05/Moto-G4-Plus_fonearena-16-1024x742.jpg "Moto G4 Plus")
+![Moto G4 Plus](https://www.androidpolice.com/wp-content/uploads/2016/05/nexus2cee_moto-g4-1.jpg "Moto G4 Plus")
